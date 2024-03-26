@@ -7,10 +7,10 @@ import clsx from 'clsx'
 
 import { Container } from '@/components/Container'
 import backgroundImage from '@/images/background-features.jpg'
-import screenshotMtLandingKlien from '@/images/screenshots/klien mt landing.png'
+import screenshotMtLandingKlien from '@/images/screenshots/klien-mt-landing.png'
 import screenshotMtLanding from '@/images/screenshots/hero-mt-landing.png'
-import screenshotTentang from '@/images/screenshots/tentang mt landing.png'
-import screenshotLayananProduk from '@/images/screenshots/layanan mt landing.png'
+import screenshotTentang from '@/images/screenshots/tentang-mt-landing.png'
+import screenshotLayananProduk from '@/images/screenshots/layanan-mt-landing.png'
 
 const features = [
   {
