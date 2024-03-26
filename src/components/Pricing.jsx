@@ -51,7 +51,7 @@ function Plan({ name, price, description, href, features, featured = false }) {
   return (
     <section
       className={clsx(
-        'flex flex-col rounded-3xl px-6 sm:px-8',
+        'flex flex-col rounded-3xl px-6 sm:px-8 mt-5',
         featured ? 'order-first bg-teal-600 py-8 lg:order-none' : 'lg:py-8',
       )}
     >
@@ -114,7 +114,7 @@ export function Pricing() {
             License MT Landing Page bersifat lifetime, tanpa biaya bulanan. Beli, jadi dalam 1 jam, dan gunakan seumur hidup untuk website bisnis Anda.
           </p>
         </div>
-        <div className="flex justify-center mt-16">
+        <div className="flex flex-col md:flex-row xl:justify-center mt-16">
           {/* <Plan
             name="Starter"
             price="$9"
