@@ -6,10 +6,10 @@ import '@/styles/tailwind.css'
 export const metadata = {
   title: {
     template: '%s - MT Landing Page',
-    default: 'MT Landing Page - Accounting made simple for small businesses',
+    default: 'MT Landing Page - Buat website bisnis Anda dalam 1 jam.',
   },
   description:
-    'Most bookkeeping software is accurate, but hard to use. We make the opposite trade-off, and hope you don’t get audited.',
+    'Dengan MT Landing Page, Anda dapat membuat website bisnis Anda dalam 1 jam saja, Anda bisa lebih fokus pada bisnis Anda.',
 }
 
 const inter = Inter({
