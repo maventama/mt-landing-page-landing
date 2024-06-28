@@ -131,7 +131,7 @@ export function Pricing() {
           <Plan
             featured
             name="MT Landing Page "
-            price="Rp 3000.0000"
+            price="Rp 2.000.000"
             description="Pas untuk website bisnis umkm/menengah Anda."
             href="https://tally.so/r/wLb5Ny"
             features={[
